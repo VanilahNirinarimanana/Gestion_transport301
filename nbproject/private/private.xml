@@ -2,40 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/gestions/GestionReservation.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/gestions/GestionSiege.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/panels/PanelChoixCooperative.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/panels/PanelFactureBillet.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/connexiondb/ConnexionDb.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/classes/ReservationTemp.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/classes/Session.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/gestions/GestionAccueil.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/classes/Siege.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/gestions/GestionVehicule.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/panels/PanelVehicule.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/panels/PanelChoixTrajetEtDate.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/panels/PanelFactureAdmin.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/panels/PanelPaiement.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/FormulaireReservationPassager.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/FormulaireLoginAdmin.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/FormulairePassageAdminCoop.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/FormulaireAdmin.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/panels/PanelAccueil.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/gestions/GestionAdmin.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/panels/PanelSiege.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/FormulaireCooperative.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/classes/Reservation.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/panels/PanelTrajet.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/panels/PanelReservation.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/panels/PanelChoixSiege.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/FormulaireAccueilAdmin.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/classes/Trajet.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/FormulairePrincipale.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/formulaires/panels/PanelInformationPassager.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/gestions/GestionCooperative.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/classes/Vehicule.java</file>
-            <file>file:/C:/Users/Vanilah/OneDrive/Documents/Gestion_Transport/src/gestion_transport/swing/gestions/GestionTrajet.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
